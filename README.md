@@ -23,9 +23,9 @@ Sure! Here's an example README.md file for the provided code:
 
 
 ## Usage
-1. Open the index.js file in a text editor.
+1. Open the scraper.js file in a text editor.
 
 2. In your terminal, run the following command to execute the code:
 
     ```shell
-    node index.js
+    node scraper.js
